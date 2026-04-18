@@ -4,3 +4,5 @@ spark-warehouse/
 metastore_db/
 *.log
 .env
+data/
+*.csv
